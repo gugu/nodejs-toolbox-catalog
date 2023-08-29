@@ -6,6 +6,7 @@
     "qr-image",
     "qrcode",
     "qrcode-generator",
-    "qrcode-terminal"
+    "qrcode-terminal",
+    "@shortcm/qr-image"
   ]
 }
